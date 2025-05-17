@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/scanalyze-logo.png" alt="Scanalyze Logo" width="200"/>
+  <img src="https://ik.imagekit.io/u10nkunm5/ChatGPT%20Image%20May%2017,%202025,%2001_33_07%20PM.png?updatedAt=1747507325671" alt="Scanalyze Logo" width="200"/>
 </p>
 
 <h1 align="center">Scanalyze</h1>
